@@ -1,4 +1,3 @@
-[![Assignment Due Date: Sunday 9th November, 2025, 23:59](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/B-RmQUtj)
 # GroupA - Global Earthquakes
 
 ## Describe your dataset in about 150-200 words
