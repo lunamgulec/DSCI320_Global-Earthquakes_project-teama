@@ -20,10 +20,11 @@ This topic also aligns with our shared interest in data-driven storytelling and 
 
 ## Team Members
 
-- Athena Wong: 4th year BCom student specializing in BTM (Business Technology Management) with a minor in Data Science. I am interested in exploring any datasets.
-- Ericson Ho: 4th year BCS student. I am interested in analyzing and visualizing geographic and weather data to understand environmental patterns and inform real-world decision-making.
 - Luna Gulec: 4th year BCom student specializing in BTM (Business Technology Management) with a minor in Data Science. I am interested in global datasets, primarily being able to spot different geographic trends.
+- Ericson Ho: 4th year BCS student. I am interested in analyzing and visualizing geographic and weather data to understand environmental patterns and inform real-world decision-making.
 - Logan Wu: 4th year BSc Student specializing in Statistics.
+- Athena Wong: 4th year BCom student specializing in BTM (Business Technology Management) with a minor in Data Science. I am interested in exploring any datasets.
+
 
 ## Images
 
