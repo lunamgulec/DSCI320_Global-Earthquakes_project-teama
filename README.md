@@ -1,4 +1,4 @@
-# GroupA - Global Earthquakes
+# TeamA - Global Earthquakes
 
 ## Describe your dataset in about 150-200 words
 
